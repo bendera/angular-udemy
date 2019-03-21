@@ -1,1 +1,7 @@
-/* You can add global styles to this file, and also import other style files */
+.message {
+  border: 1px solid transparent;
+  border-radius: .25rem;
+  margin-bottom: 1rem;
+  padding: .75rem 1.25rem;
+  position: relative;
+}
