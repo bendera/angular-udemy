@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 
 export class SuccessAlert {
-  msg:String = 'Success alert example';
+  msg: string = 'Success alert example';
 }

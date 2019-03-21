@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 
 export class WarningAlert {
-  msg:String = 'Warning alert example';
+  msg: string = 'Warning alert example';
 }
